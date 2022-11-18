@@ -1,5 +1,5 @@
 # Lucky Click
-### very simple lucky click with 4 different types of cells ad a restart with a highscore.
+### very simple lucky click game with 4 different types of cells ad a restart with a highscore.
 
 
 ## Cell
